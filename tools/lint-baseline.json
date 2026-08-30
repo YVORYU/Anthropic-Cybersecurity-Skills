@@ -1,6 +1,6 @@
 {
   "_comment": "Pre-existing lint failures, grandfathered so CI can gate new work today. This file may only shrink. Never add a slug by hand -- fix the skill, then run: python tools/lint-descriptions.py --update-baseline",
-  "_total_grandfathered": 980,
+  "_total_grandfathered": 979,
   "desc-ends-punctuation": [
     "analyzing-active-directory-acl-abuse",
     "analyzing-malicious-url-with-urlscan",
@@ -503,7 +503,6 @@
     "exploiting-insecure-data-storage-in-mobile",
     "exploiting-insecure-deserialization",
     "exploiting-ipv6-vulnerabilities",
-    "exploiting-jwt-algorithm-confusion-attack",
     "exploiting-kerberoasting-with-impacket",
     "exploiting-mass-assignment-in-rest-apis",
     "exploiting-ms17-010-eternalblue-vulnerability",
